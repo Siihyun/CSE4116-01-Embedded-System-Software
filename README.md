@@ -11,4 +11,11 @@ Project 2
 --------------
 - Develop device driver with linux kernel module.
 - Modify linux kernel for adding new system call.
-- Add  system call
+- Add new system call
+
+Project 3
+-------------
+- Develop linux kernel module.
+- Use linux kernel timer.
+- Use linux kernel wait queue.
+- Use interrupt handler.
