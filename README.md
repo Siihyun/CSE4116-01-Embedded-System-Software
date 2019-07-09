@@ -19,3 +19,10 @@ Project 3
 - Use linux kernel timer.
 - Use linux kernel wait queue.
 - Use interrupt handler.
+
+Project 4
+-------------
+- Develop java application using board
+- Develop puzzle game application
+- Develop timer using Android Service
+- Use only linear layout
